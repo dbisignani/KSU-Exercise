@@ -1,0 +1,8 @@
+c:\users\darli\source\repos\Data_Munging_Kata\Data_Munging_Kata\obj\Debug\Data_Munging_Kata.csproj.CoreCompileInputs.cache
+c:\users\darli\source\repos\Data_Munging_Kata\Data_Munging_Kata\bin\Debug\Data.txt
+c:\users\darli\source\repos\Data_Munging_Kata\Data_Munging_Kata\bin\Debug\Data_Munging_Kata2.exe.config
+c:\users\darli\source\repos\Data_Munging_Kata\Data_Munging_Kata\bin\Debug\Data_Munging_Kata2.exe
+c:\users\darli\source\repos\Data_Munging_Kata\Data_Munging_Kata\bin\Debug\Data_Munging_Kata2.pdb
+c:\users\darli\source\repos\Data_Munging_Kata\Data_Munging_Kata\obj\Debug\Data_Munging_Kata2.exe
+c:\users\darli\source\repos\Data_Munging_Kata\Data_Munging_Kata\obj\Debug\Data_Munging_Kata2.pdb
+c:\users\darli\source\repos\Data_Munging_Kata\Data_Munging_Kata\obj\Debug\Data_Munging_Kata.csprojAssemblyReference.cache
